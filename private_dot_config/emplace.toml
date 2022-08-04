@@ -1,0 +1,6 @@
+repo_directory = "/home/jayvdb/.local/share/emplace"
+
+[repo]
+branch = "master"
+file = ".emplace"
+url = "git@github.com:jayvdb/emplace-data.git"
